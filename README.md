@@ -6,7 +6,7 @@ Library Frost in C++, C, Typescript, Rust, Python, Java, C# and Shell
 
 ## Roadmap
 
-- [ ] Initial SDK
+- [x] Initial SDK 
 - [x] Initial design (WIP)
 - [ ] Documentation
 - [ ] Go
