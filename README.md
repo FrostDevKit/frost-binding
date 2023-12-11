@@ -9,6 +9,8 @@ Library Frost in C++, C, Typescript, Rust, Python, Java, C# and Shell
 - [x] Initial SDK 
 - [x] Initial design (WIP)
 - [ ] Documentation
+- [ ] Taproot Integration
+- [ ] Core functions
 - [ ] Go
 - [ ] C++
 - [ ] C
