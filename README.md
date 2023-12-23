@@ -20,3 +20,4 @@ Library Frost in C++, C, Typescript, Rust, Python, Java, C# and Shell
 - [ ] Phython
 - [ ] Java
 - [ ] Shell
+- [ ] Sync this library with other libraries
