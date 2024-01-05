@@ -21,3 +21,4 @@ Library Frost in C++, C, Typescript, Rust, Python, Java, C# and Shell
 - [ ] Java
 - [ ] Shell
 - [ ] Sync this library with other libraries
+- [ ] Beta software
