@@ -23,5 +23,4 @@ Library Frost in C++, C, Typescript, Rust, Python, Java, C# and Shell
 - [ ] Sync this library with other libraries
 - [ ] Beta software
 - [ ] Sync with BIP Frost
-- [ ] Release beta version in 2024
-- [ ] Fix bugs and issues 
+- [ ] Fix bugs and issues
