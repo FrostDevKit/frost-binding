@@ -1,4 +1,4 @@
-# Frost Binding
+# Frost Binding 🔑
 
 **⚠️Alpha software and WIP**
 
